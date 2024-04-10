@@ -22,6 +22,20 @@ The project goal is to develop an opensource GPS-LTE tracking system composed of
 -The web server that handles the communication with the tracker  
 -A web client to view and control the tracker  
 
+------------ Additional precisions ------------------
+|                                                   |
+|     One of the applications we can think of       |
+|     is tracking the location of a stolen object   |
+|                                                   |
+|                                                   |
+-----------------------------------------------------
+
+## Libraries and languages
+
+-Angular (js) (front end app)
+-Rocket (rust) (Web server)
+-nrf connect sdk (c) (firmware)
+
 
 
 ## Requirements
